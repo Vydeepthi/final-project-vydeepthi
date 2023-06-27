@@ -9,7 +9,7 @@ output: html_document
 
 ## Research Question
 
-The research question for this project is: How do different factors such as GRE scores, GPA, undergraduate institution rank, socioeconomic status, gender, and race influence the admission of international students into colleges in the USA? This question is of interest as understanding the factors that impact admission can help improve the admission process and promote fairness and inclusivity.
+The research question for this project is: How do different factors such as GRE scores, GPA, undergraduate institution rank, socioeconomic status, gender, and race influence the admission of international students into colleges in the USA? This question is of interest as understanding the factors that impact admission can help improve the admission process and promote fairness and inclusivity. 
 
 # Data Processing
 ```{r}
@@ -59,7 +59,7 @@ View(merged_data)
 
 
 ```
-Data Visualization
+#Data Visualization
 1.Scatter Plot: Relationship between CGPA and Chance of Admission
 This scatter plot visualizes the relationship between CGPA (Cumulative Grade Point Average) and the Chance of Admission. It can help analyze if there is any correlation between these two variables.
 ```{r}
